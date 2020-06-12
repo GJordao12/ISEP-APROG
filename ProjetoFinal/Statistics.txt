@@ -1,0 +1,8 @@
+Total de jogos= 48
+Total de vitórias= 39
+Total de empates= 9
+Total de derrotas= 39
+Total de golos marcados= 122
+Total de golos sofridos= 122
+Média de golos marcados por jogo= 2,5
+Média de golos sofridos por jogo= 2,5
