@@ -3,6 +3,9 @@ import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 import java.util.Scanner;
 
+/**
+ * @author Jordão & António
+ */
 public class ProjetoFinal {
 
     public static void main(String[] args) throws FileNotFoundException {
